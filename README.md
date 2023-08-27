@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Currently learning <a href="https://public.tableau.com/app/profile/adam.nowak7513">Tabelau Public</a>
+### 🌱 I’m currently learning Tableau, if you want to see a blank profile go to -> <p><a href="https://public.tableau.com/app/profile/adam.nowak7513">Tabelau Public</a></p>
+
 <!--
 **adam-cn/adam-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
