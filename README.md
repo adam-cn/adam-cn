@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Currently learning <p><a href="https://public.tableau.com/app/profile/adam.nowak7513" title="Tabelau Public">foo</a></p>
+### Currently learning <p><a href="https://public.tableau.com/app/profile/adam.nowak7513">Tabelau Public</a></p>
 <!--
 **adam-cn/adam-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
